@@ -1,2 +1,0 @@
-# rakendusserverid
-Rakendusserverid TTHK
